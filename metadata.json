@@ -1,0 +1,6 @@
+{
+  "name": "Berklee Admission Inquiry",
+  "description": "An elegant and premium grades and application status system for Berklee College of Music assessment review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
